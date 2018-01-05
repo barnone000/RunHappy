@@ -1,0 +1,6 @@
+<fonts>
+	<font id="dateFont" filename="ariel_20.fnt" />
+	<font id="timeFont" filename="ariel_50.fnt" />
+	<font id="systemFont" filename="ariel_20.fnt" />
+	<font id="messageFont" filename="ariel_15.fnt" />
+</fonts>
